@@ -1,2 +1,2 @@
 # devsecops-pipeline
-This is a production grade pipeline
+Production-grade DevSecOps pipeline on AWS — CI/CD, security scanning, IaC, monitoring
